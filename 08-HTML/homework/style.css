@@ -1,0 +1,22 @@
+#spanId {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 50px;
+}
+#thirdDiv {
+    padding: 50px;
+    border: 2px solid black
+}
+
+h1 {
+    color: indianred;
+}
+
+#thirdDiv {
+    width: 500px; 
+    height: 600px; 
+    background-color: green
+}
+
+img {
+    width: 400px;
+}
