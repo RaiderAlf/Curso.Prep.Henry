@@ -1,0 +1,49 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+/* Header */
+
+#description {
+    display: flex;
+    justify-content: space-around;
+}
+
+#description img {
+    border-radius: 10px;
+    padding: .2rem;
+}
+
+#description div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+    justify-content: space-around;
+}
+
+header #description {
+    box-shadow: 0 0 10px black;
+}
+
+/* Main */
+
+#educacion {
+    display: flex;
+    justify-content: space-around;
+    padding: .5rem;
+    box-shadow: 0 5px 10px black;
+}
+
+#educacion div {
+    padding: 1rem;
+}
+
+#skillsHobbies {
+    display: flex;
+    padding: 2rem 0;
+    justify-content: space-around;
+}
